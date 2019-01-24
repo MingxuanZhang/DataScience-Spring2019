@@ -1,0 +1,21 @@
+---
+title: "Lab2"
+author: "Jamie George"
+date: "January 23, 2019"
+output: html_document
+---
+
+1.
+
+![A picture of me!](C:\Users\jage6\OneDrive\Pictures\Picture.jpg)
+
+2. 
+Questions I would like answers to involve Mathematics and Biology. For example, how long it takes some drug to enter one's bloodstream based of off factors like weight, sex, fitness level, and ect. 
+3. 
+Six months after graduation I would like to be abroad, possibly teaching English in thailand. Five years after graduation I hope to work in the computational Biology industry and want to be fincially stable!
+4.
+I hope I can use relationships between math, biology, and computing to better people's life (i.e. finding new medicine, new biomedical devices, and cures to diseases). 
+5.
+I hope to learn R and feel comfortable using this language for problems I may come across in my career. I also hope to learn new effective problem solving skills.
+6. 
+I am a member of Delta Delta Delta! I never thought I would be in a sorority, but thus far, it has been my best experience in college.
