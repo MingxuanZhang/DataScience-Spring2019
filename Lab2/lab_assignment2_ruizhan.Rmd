@@ -1,0 +1,20 @@
+---
+title: "Lab_assignment2"
+output: html_document
+---
+
+#Rui Zhan
+* ![](/users/zhanyichen/Desktop/STAT2600/module0/lab2/rz3.jpg){width=200px}
+
+* I want to use statistic knowledge to predict how many games Denver nuggets will win this season.
+* I plan to go to graduate school to learn more statistics six monthes after graduatin. Five years after graduation, I want to find a job where I can apply my knowledge into real life.
+* career acomplishment: I want to become a data scientist.
+* I want to be proficient in R and learn more R skills.
+*(something not included above)  Let's learn R!!
+
+___
+
+***
+
+
+
