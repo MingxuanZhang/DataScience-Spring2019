@@ -1,0 +1,12 @@
+---
+title: "Lab 2"
+author: "eve"
+date: "January 23, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](C:\Users\evevd\Downloads\IMG_1596.jpg){width=200px}
