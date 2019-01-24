@@ -1,0 +1,28 @@
+---
+title: "Lab Assignment 2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Mingxuan Zhang
+![](C:\Users\Mingxuan\Desktop\stat 2600\Mingxuan.jpg){width=400px}
+
+
+
+* #### At least one (non-statistics) question you would like to know the answer to that could be answered by analyzing data
+##### I want to know that can we use statistical methods to analzye which soccer team will perform better in one match.
+
+* #### What you would love to be doing six months after graduation and then five years after that (what would make you excited to be doing?)
+##### After six months of graduation, I will continue my study at graduate school, so I hope I can do well in my graduate study. After five years of my graduation, I hope I will be doing research in machine learning.
+
+* #### What you hope your greatest career accomplishment will be.
+##### I hope my greatest career accomplishment will be a professor at a famous university.
+
+* #### and given these hopes and goals, what you are hoping to learn/accomplish/do in this course.
+##### I hope I can be better at R programming, in particular I want to learn more about ggplot2, it is one of the best package in R, it is really useful.
+
+* #### Something else about me
+##### I like soccer, and my faviorate team is Real Madrid.
