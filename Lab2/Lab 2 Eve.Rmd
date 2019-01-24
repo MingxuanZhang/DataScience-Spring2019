@@ -1,0 +1,29 @@
+---
+title: "Lab 2"
+author: "eve"
+date: "January 23, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](C:\Users\evevd\Downloads\IMG_1596.jpg){width=200px}
+1. At least one (non-statistics) question you would like to know the answer to that could be answered by analyzing data
+
+I would like to be able to be able to see general trends of the stock markets and act accordingly on what to trade and buy. 
+
+2. What you would love to be doing six months after graduation and then five years after that (what would make you excited to be doing?)
+
+Six months after graduation, I would love to not live with my parents and be employed in some sort of stem field(hopefully having to do with statistics!).
+Five years after graduation, I would love to maybe buy a house in a city or else upgrade to a better apartment with some sort of pet. I would like to be on to not be in an entry level job at this time.
+
+3. What you hope your greatest career accomplishment will be and given these hopes and goals, what you are hoping to learn/accomplish/do in this course
+
+I want to be the best in my field and be a recipient to some field-related awards. 
+In this class, I want to become proficent in R enough to analyze and make inferences from data. 
+
+4. You must also include something of your own choosing not described above. Anything. Be creative!
+
+Breakfast food is my favorite type of food. I am a master of making gluten free pancakes in a variety of flavors includding carrot cake pancakes with a cream cheese frosting drizzle. I am eager to come up with some other types of pancake recipes so maybe when i am old and retired, I can open a small breakfast joint.
