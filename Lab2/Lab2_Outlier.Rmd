@@ -1,0 +1,211 @@
+---
+title: "Lab2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Team: Outlier
+![](Team.jpg){width=600px}
+
+***
+
+#### Our goal for this semester is to be proficient at R programming, and learn how to use R to solve statistical problems. We also hope to learn how to work and communicate effectively.
+
+***
+
+#  Eve Deleon
+![](Deleon.jpg){width=500px}
+
+1. At least one (non-statistics) question you would like to know the answer to that could be answered by analyzing data
+
+I would like to be able to be able to see general trends of the stock markets and act accordingly on what to trade and buy. 
+
+2. What you would love to be doing six months after graduation and then five years after that (what would make you excited to be doing?)
+
+Six months after graduation, I would love to not live with my parents and be employed in some sort of stem field(hopefully having to do with statistics!).
+Five years after graduation, I would love to maybe buy a house in a city or else upgrade to a better apartment with some sort of pet. I would like to be on to not be in an entry level job at this time.
+
+3. What you hope your greatest career accomplishment will be and given these hopes and goals, what you are hoping to learn/accomplish/do in this course
+
+I want to be the best in my field and be a recipient to some field-related awards. 
+In this class, I want to become proficent in R enough to analyze and make inferences from data. 
+
+4. You must also include something of your own choosing not described above. Anything. Be creative!
+
+Breakfast food is my favorite type of food. I am a master of making gluten free pancakes in a variety of flavors includding carrot cake pancakes with a cream cheese frosting drizzle. I am eager to come up with some other types of pancake recipes so maybe when i am old and retired, I can open a small breakfast joint.
+
+***
+
+## Feedback
+
+### Mingxuan:
+
+The trend of stock markets is interesting to know, since we can make a lot of money from this. Moving to a better apartment will improve the life quality, this is my goal too. R is definitely one the best programming language to do statistical inference, and I hope one day I can visit your breakfast joint!
+
+### Rui:
+
+Seeing general trends of stock market is hard, but I believe one day you can figure it out. Breakfast joint sounds fun to me,hope you can create a delicious recipe.
+
+### Jamie:
+
+You're non statistical question does a good job of showing your academic interests. The wording on what you want to do six months from now may be a little hard to read. The gluten free pancakes fact does a good job of showing what you like.
+
+### Adam:
+
+Your last sentence of question 2 may have a typo, or is maybe phrased awkwardly. I share your interest in analyzing markets, so we could maybe help each other answer our questions. I'm impressed by how well you've planned your life (compared to mine at least).
+
+***
+
+# Mingxuan Zhang
+![](Mingxuan.jpg){width=500px}
+
+* #### At least one (non-statistics) question you would like to know the answer to that could be answered by analyzing data
+##### I want to know that can we use statistical methods to analzye which soccer team will perform better in one match.
+
+* #### What you would love to be doing six months after graduation and then five years after that (what would make you excited to be doing?)
+##### After six months of graduation, I will continue my study at graduate school, so I hope I can do well in my graduate study. After five years of my graduation, I hope I will be doing research in machine learning.
+
+* #### What you hope your greatest career accomplishment will be.
+##### I hope my greatest career accomplishment will be a professor at a famous university.
+
+* #### and given these hopes and goals, what you are hoping to learn/accomplish/do in this course.
+##### I hope I can be better at R programming, in particular I want to learn more about ggplot2, it is one of the best package in R, it is really useful.
+
+* #### Something else about me
+##### I like soccer, and my faviorate team is Real Madrid.
+
+***
+
+## Feedback
+
+### Eve:
+
+It's very cool that you want to continue your education to becoming a professor. What kind of subject would you teach and at what school? Your football picture is very cool, what team?
+
+### Rui:
+
+Campus is definitely a better place for you to do research, Being a professor can be a way of focusing on your researching field:machine learning. I'm going to learn machine learning next summer. Let's play soccer next time!
+
+### Jamie:
+
+The way you used different headings makes your section easy to read. Consider rewording your career accomplishment as it may be hard to read. It is neat that you like soccer so much!
+
+### Adam:
+
+The bullet points in your section somewhat clashes with your use of headers and I feel that using one or the other would be easier to read. Do you know where you will be attending graduate school, as well as where you would like to eventually teach? 
+
+***
+
+# Rui Zhan
+![](Rui.jpg){width=500px}
+
+
+* I want to use statistic knowledge to predict how many games Denver nuggets will win this season.
+
+* I plan to go to graduate school to learn more statistics six monthes after graduatin. Five years after graduation, I want to find a job where I can apply my knowledge into real life.
+
+* career acomplishment: I want to become a data scientist.
+
+* I want to be proficient in R and learn more R skills.
+
+* (something not included above)  Let's learn R!!
+
+***
+
+## Feedback
+
+### Eve:
+
+Data science is very important in today's economy- you will definitely be employed. What are your interests outside of school? The Denver nuggets games are very fun to go to.
+
+### Mingxuan:
+
+Data science is a very popular subject and data scientist is also very high salary job now, and be proficient in R is essential in your data scientist career!
+
+### Jamie:
+
+Your non-statistical question does a good job of showing your interests. On the end, you may want to include something about yourself that is not related to this class! It is cool you want to be a data scientist!
+
+
+### Adam:
+
+Applying statistics to sports like basketball sounds challenging yet fulfilling. Where would you want to go to graduate school? Is there a certain industry in which you would like like to be analyzing data?
+
+
+***
+
+# Jamie George
+![](jamie.jpg){width=900px}
+
+1. 
+Questions I would like answers to involve Mathematics and Biology. For example, how long it takes some drug to enter one's bloodstream based of off factors like weight, sex, fitness level, and ect. 
+2. 
+Six months after graduation I would like to be abroad, possibly teaching English in thailand. Five years after graduation I hope to work in the computational Biology industry and want to be fincially stable!
+3.
+I hope I can use relationships between math, biology, and computing to better people's life (i.e. finding new medicine, new biomedical devices, and cures to diseases). 
+4.
+I hope to learn R and feel comfortable using this language for problems I may come across in my career. I also hope to learn new effective problem solving skills.
+5. 
+I am a member of Delta Delta Delta! I never thought I would be in a sorority, but thus far, it has been my best experience in college.
+
+*** 
+
+## Feedback
+
+### Eve:
+
+Your question in biology and math is super cool, it seems that you are super passionate with what you want to do later on in life. How has Delta Delta Delta enhanced your college experience? Teaching abroad sounds like such a cool experience on learning about another culture.
+
+### Mingxuan:
+
+I think biostatistics is definitely a good fit for you. Teaching English in Thailand is really nice, because I am from China, and I really wish I could have a native speaker like you to teach me english when I was in school. R is definitely gonna help you with your career!
+
+
+### Rui:
+
+Thailand is a great place to go. Have you been there before?It's a great help if they have a native-speaker as English teacher.Biology sounds complex to me, hope you can help more people with you skills.
+
+### Adam:
+
+It's interesting that you want to teach abroad in Thailand. Have you been there before? And if so, what about it draws you there? Additionally I very much relate to your hope of being financially stable in five years.
+
+
+
+# Adam Hoerger
+![](Adam.jpg){width=500px}
+
+* I'm interested in econ and my father works for a gold mining company, so I would be interested in seeing what, if any, relationship exists between the price of gold and the state of economies and markets in the world, which I feel could be revealed through use of data analysis.
+* Six months from graduation, I would like to be working on some form of software development. For example I'd love to work for Google at some point. I feel that programming in industry will be very different than programming in coursework, and as a result getting to learn these differences soon after college should be very helpful. Further down the line, in maybe 5 years, I would like to be writing programs for investment firms, as in the long-term I would love to be applying computer science to other fields I find interesting (such as finance).
+* I hope my greatest career accomplishment is making it to some company on Wall Street.
+* In this course, I hope to learn about R as a programming language as well as a tool to get started learning more about data analysis.
+* Fun fact, I've played the flute for 7 years.
+
+***
+
+## Feedback
+
+### Eve:
+
+The flute is very cool, did you play in your school's orchestra? Working on Wall Street sounds very interesting, New York is such a cool city, there's always something to do! I also might major in econ as well!
+
+### Mingxuan:
+
+Stochastic Processes is important in econ and finance, and our school provides servel classes for this topic, for example APPM 4560 (Markov Processes). Google is a really company! I hope you can work at Google someday! Flute is very cool, I hope you can play flute for our team someday!
+
+
+### Rui:
+
+It's interesting to combine what you want to learn with what you want to do,hope you can apply your skill in Wall Street one day. Flute is fun, I wanted to learn it in elementary school, but I chose to played saxophone then.
+
+### Jamie:
+
+The fact that your dad works for a gold mining company is interesting and unique. You did well answering the prompts!
+
+
+
+
+
